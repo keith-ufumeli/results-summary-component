@@ -22,7 +22,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/results-summary-component-using-bootstrap-and-css-grids-d-7qZy4Zrt)
 - Live Site URL: [Vercel](https://results-summary-component-khaki.vercel.app/)
 
 ## My process
