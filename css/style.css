@@ -43,7 +43,7 @@ p{
     font-size: var(--paragraph-font);
 }
 
-main{
+main .row{
     height: 70vh;
 }
 
