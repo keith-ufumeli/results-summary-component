@@ -186,6 +186,10 @@ h3{
         /*box-shadow: var(--grad-violet-blue), inset;*/
         margin: 7em auto;
     }
+    
+    .result-card {
+        border-radius: 10px;
+    }
 
     .result-card .large-text{
         font-size: 3.5em;
