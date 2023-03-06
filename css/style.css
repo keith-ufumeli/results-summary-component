@@ -43,10 +43,6 @@ p{
     font-size: var(--paragraph-font);
 }
 
-main .row{
-    height: 70vh;
-}
-
 .main-wrapper{
     display: grid;
     align-content: center;
